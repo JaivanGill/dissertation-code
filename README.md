@@ -56,7 +56,6 @@ The factor loading βᵢ ≥ 0 measures player *i*'s sensitivity to the common s
 2. Multi-manager evidence: Players who maintained output across multiple managers were assigned lower βᵢ (suggesting intrinsic quality less dependent on system), while those whose output dropped significantly under a new manager received higher values.
 3. System-dependency indicators: Players whose xG output is heavily driven by team-created chances (high xG per shot, low shot volume) received higher βᵢ than players who generate their own shooting opportunities.
 
-The common shock variance is Var(Z) = 9 (σ_Z = 3), calibrated so that the systematic component contributes meaningful but not dominant variation relative to idiosyncratic noise.
 
  Experimental Parameters
 
