@@ -6,7 +6,7 @@ Jaivan Gill · University of Birmingham · Student ID: 2600501
 
  Overview
 
-This repository contains the Python implementation for the numerical experiments in the dissertation *"Multi-criteria Optimisation under Uncertainty in Football Analytics."* The project formulates squad selection as a binary integer programme with multiple objectives, expected performance and Conditional Value-at-Risk (CVaR) and solves it using ε-constraint scalarisation over finite scenarios.
+This repository contains the Python implementation for the numerical experiments in the dissertation *"Multi-criteria Optimisation under Uncertainty in Football Analytics."* The project formulates squad selection as a binary integer programme with multiple objectives, expected performance and Conditional Value at Risk (CVaR) and solves it using ε-constraint scalarisation over finite scenarios.
  Repository Structure
 
 | File | Description |
