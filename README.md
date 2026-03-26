@@ -6,7 +6,7 @@ Jaivan Gill · University of Birmingham · Student ID: 2600501
 
  Overview
 
-This repository contains the Python implementation for the numerical experiments in the dissertation *"Multi-criteria Optimisation under Uncertainty in Football Analytics."* The project formulates squad selection as a binary integer programme with multiple objectives—expected performance and Conditional Value-at-Risk (CVaR)—and solves it using ε-constraint scalarisation over finite scenarios.
+This repository contains the Python implementation for the numerical experiments in the dissertation *"Multi-criteria Optimisation under Uncertainty in Football Analytics."* The project formulates squad selection as a binary integer programme with multiple objectives, expected performance and Conditional Value-at-Risk (CVaR) and solves it using ε-constraint scalarisation over finite scenarios.
  Repository Structure
 
 | File | Description |
@@ -30,7 +30,7 @@ For each outfield player *i*, the baseline expected contribution is computed as:
 μᵢ = (npxGᵢ + xAᵢ) × (90 / minᵢ) × 38
 ```
 
-where `npxGᵢ` is non-penalty expected goals per 90 minutes, `xAᵢ` is expected assists per 90, and `minᵢ` is total minutes played. This projects per-90 attacking output to a full 38-match season. For goalkeepers, `μᵢ` is derived analogously from goals prevented per 90 (post-shot xG minus goals conceded, per 90, scaled to 38 matches).
+where `npxGᵢ` is non-penalty expected goals per 90 minutes, `xAᵢ` is expected assists per 90, and `minᵢ` is total minutes played. This projects per 90 attacking output to a full 38 match season. For goalkeepers, `μᵢ` is derived analogously from goals prevented per 90 (post-shot xG minus goals conceded, per 90, scaled to 38 matches).
 
 Sources: FotMob (2024–25 season data), FBref (supplementary per-90 statistics).
 
@@ -40,7 +40,7 @@ Weekly wage estimates in thousands of pounds (£k/week), sourced from [Capology]
 
  Volatility Parameters (σᵢ)
 
-Player-specific standard deviations capturing season-to-season output variation. Estimated from:
+Player specific standard deviations capturing season-to-season output variation. Estimated from:
 
 1. Historical output variation across 2021–22, 2022–23, and 2023–24 seasons using FotMob data (npxG + xA per 90, scaled to 38 matches).
 2. Injury adjustment: Players with significant injury history (source: [Transfermarkt](https://www.transfermarkt.co.uk/) injury records) received upward σᵢ adjustments of 15–30%, reflecting the increased uncertainty in their availability and output.
@@ -50,7 +50,7 @@ Where fewer than three historical seasons were available (e.g. newly promoted pl
 
  Systemic Exposure Parameters (βᵢ)
 
-The factor loading βᵢ ≥ 0 measures player *i*'s sensitivity to the common shock Z(ξ) in the one-factor model (Equation 12 in the dissertation). These were estimated from:
+The factor loading βᵢ ≥ 0 measures player *i*'s sensitivity to the common shock Z(ξ) in the one factor model (Equation 12 in the dissertation). These were estimated from:
 
 1. Tactical role analysis: Players in rigid tactical systems (e.g. wing-backs in a 3-4-3) received higher βᵢ values (0.4–0.6) due to greater dependence on team structure. Players in more autonomous roles (e.g. free-roaming attacking midfielders, penalty-box strikers) received lower values (0.1–0.3).
 2. Multi-manager evidence: Players who maintained output across multiple managers were assigned lower βᵢ (suggesting intrinsic quality less dependent on system), while those whose output dropped significantly under a new manager received higher values.
@@ -83,7 +83,7 @@ An additional sub-positional constraint requires at least 2 centre-backs among t
 
  Solver
 
-All MILPs are solved using the CBC (COIN-OR Branch and Cut) solver via PuLP, with a 5-minute time limit per problem instance. CBC is an open-source mixed-integer linear programming solver suitable for the problem sizes encountered here (100 binary variables, 500 scenario constraints).
+All MILPs are solved using the CBC (COIN-OR Branch and Cut) solver via PuLP, with a 5-minute time limit per problem instance. CBC is an open source mixed integer linear programming solver suitable for the problem sizes encountered here (100 binary variables, 500 scenario constraints).
 
 Reproducing Results
 
