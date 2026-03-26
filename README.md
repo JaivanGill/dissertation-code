@@ -82,7 +82,7 @@ An additional sub positional constraint requires at least 2 centre backs among t
 
  Solver
 
-All MILPs are solved using the CBC (COIN OR Branch and Cut) solver via PuLP, with a 5-minute time limit per problem instance. CBC is an open source mixed integer linear programming solver suitable for the problem sizes encountered here (100 binary variables, 500 scenario constraints).
+All MILPs are solved using the CBC (COIN OR Branch and Cut) solver via PuLP, with a 5 minute time limit per problem instance. CBC is an open source mixed integer linear programming solver suitable for the problem sizes encountered here (100 binary variables, 500 scenario constraints).
 
 Reproducing Results
 
