@@ -1,0 +1,897 @@
+Generating scenarios...
+
+====================================================================================================
+EXPERIMENT 1: RQ1 -- RISK MEASURE COMPARISON
+====================================================================================================
+
+Solving Model 1a: Deterministic...
+  Status: Optimal
+
+====================================================================================================
+FULL PLAYER TABLE  Model 1a: Deterministic
+====================================================================================================
+   # Name                          Pos  Sub  Rank      mu   Wage   Sig   Bet  Status
+----------------------------------------------------------------------------------------------------
+   1 Mohamed Salah                  FW    -     1   27.68    350k   2.5  0.20  ---
+   4 Bryan Mbeumo                   FW    -     4   16.81     45k   3.8  0.30  ---
+   5 Erling Haaland                 FW    -     5   26.05    375k   4.0  0.40  ---
+   6 Matheus Cunha                  FW    -     6   18.30     60k   3.5  0.20  ---
+   7 Bukayo Saka                    FW    -     7   27.32    195k   3.8  0.30  SELECTED <<<
+  11 Alexander Isak                 FW    -    11   25.78    120k   5.0  0.20  SELECTED <<<
+  17 Luis Diaz                      FW    -    17   23.39     55k   5.3  0.40  SELECTED <<<
+  19 Savinho                        FW    -    19   21.47     40k   3.4  0.40  ---
+  23 Jeremy Doku                    FW    -    23   11.57     50k   4.6  0.30  ---
+  28 Yoane Wissa                    FW    -    28   23.86     25k   1.8  0.50  SELECTED <<<
+  29 Antoine Semenyo                FW    -    29   15.27     50k   2.2  0.50  ---
+  43 Heung-Min Son                  FW    -    43   17.63    190k   3.3  0.30  ---
+  50 Jarrod Bowen                   FW    -    50   16.44    150k   1.8  0.30  ---
+  51 Callum Hudson-Odoi             FW    -    51    7.89     80k   2.8  0.50  ---
+  53 Noni Madueke                   FW    -    53   21.38     50k   2.3  0.30  ---
+  56 Joao Pedro                     FW    -    56   14.10     50k   4.6  0.40  ---
+  62 Justin Kluivert                FW    -    62   13.22     80k   2.6  0.50  ---
+  67 Iliman Ndiaye                  FW    -    67    8.44     45k   3.0  0.30  ---
+  68 Kaoru Mitoma                   FW    -    68   17.31     80k   3.2  0.30  ---
+  69 Dango Ouattara                 FW    -    69   19.86     35k   2.0  0.60  ---
+  72 Cody Gakpo                     FW    -    72   19.15    120k   3.2  0.40  ---
+  80 Kai Havertz                    FW    -    80   20.49    280k   1.5  0.70  ---
+  83 Ismaila Sarr                   FW    -    83   22.00     70k   2.4  0.60  ---
+  85 Anthony Gordon                 FW    -    85   16.18    150k   2.9  0.40  ---
+  87 Chris Wood                     FW    -    87   14.38     80k   7.2  0.50  ---
+  89 Nicolas Jackson                FW    -    89   21.79    100k   4.9  0.50  ---
+  99 Leandro Trossard               FW    -    99   15.18     90k   3.8  0.50  ---
+   2 Cole Palmer                    MF    -     2   24.05    130k   5.7  0.20  SELECTED <<<
+   3 Bruno Fernandes                MF    -     3   17.61    300k   1.0  0.30  ---
+   8 Amad Diallo                    MF    -     8   15.94     29k   2.4  0.60  ---
+   9 Moises Caicedo                 MF    -     9    3.71    150k   1.4  0.30  ---
+  10 Eberechi Eze                   MF    -    10   17.89    100k   6.3  0.20  ---
+  12 Youri Tielemans                MF    -    12    9.23    150k   1.0  0.50  ---
+  14 Alexis Mac Allister            MF    -    14   11.11    150k   1.5  0.50  ---
+  16 Thomas Partey                  MF    -    16    6.00    200k   1.3  0.60  ---
+  21 Declan Rice                    MF    -    21   11.03    240k   2.3  0.40  ---
+  24 Mateo Kovacic                  MF    -    24    7.94    150k   1.3  0.50  ---
+  25 Enzo Fernandez                 MF    -    25   14.34    180k   2.4  0.60  ---
+  26 Ryan Gravenberch               MF    -    26    5.02    150k   2.0  0.70  ---
+  27 James Maddison                 MF    -    27   24.48    170k   2.0  0.60  SELECTED <<<
+  30 Bernardo Silva                 MF    -    30   10.82    300k   2.5  0.60  ---
+  31 Alex Iwobi                     MF    -    31   12.87     80k   3.0  0.60  ---
+  33 Bruno Guimaraes                MF    -    33   10.11    160k   2.5  0.30  ---
+  34 Ryan Christie                  MF    -    34    8.20     70k   1.0  0.80  ---
+  35 Morgan Gibbs-White             MF    -    35   13.37     80k   1.1  0.40  ---
+  36 Ilkay Gundogan                 MF    -    36   11.52    230k   4.9  0.70  ---
+  37 Christian Norgaard             MF    -    37    6.93     35k   1.0  0.40  ---
+  38 Mikkel Damsgaard               MF    -    38   11.48     30k   3.3  0.60  ---
+  39 Kevin De Bruyne                MF    -    39   23.70    400k   5.3  0.40  SELECTED <<<
+  41 Jacob Murphy                   MF    -    41   17.06     35k   3.3  0.60  ---
+  42 Martin Odegaard                MF    -    42   15.69    240k   2.8  0.40  ---
+  52 Dominik Szoboszlai             MF    -    52   18.11    120k   2.7  0.50  ---
+  54 Elliot Anderson                MF    -    54    7.16     40k   2.2  0.60  ---
+  55 Dwight McNeil                  MF    -    55   13.50     25k   2.1  0.30  ---
+  57 Sandro Tonali                  MF    -    57    9.31    120k   2.2  0.30  ---
+  64 Carlos Baleba                  MF    -    64    5.50     13k   1.0  0.50  ---
+  74 Casemiro                       MF    -    74    8.75    350k   2.4  0.80  ---
+  75 Lewis Cook                     MF    -    75    5.39     60k   1.0  0.50  ---
+  91 Marcus Tavernier               MF    -    91   16.11     35k   2.8  0.60  ---
+  93 Joelinton                      MF    -    93    8.93    150k   2.8  0.50  ---
+  96 Idrissa Gana Gueye             MF    -    96    3.38    120k   1.0  0.30  ---
+  98 Morgan Rogers                  MF    -    98   12.92     75k   1.8  0.40  ---
+  13 Trent Alexander-Arnold         DF   FB    13   14.07    180k   2.4  0.60  SELECTED <<<
+  15 Daniel Munoz                   DF   FB    15   10.24     45k   1.5  0.60  ---
+  18 Josko Gvardiol                 DF   FB    18    7.82    200k   2.1  0.50  ---
+  20 Virgil van Dijk                DF   CB    20    3.31    220k   0.5  0.20  ---
+  22 Antonee Robinson               DF   FB    22    5.22     50k   1.1  0.50  ---
+  32 Aaron Wan-Bissaka              DF   FB    32    4.30     90k   1.1  0.40  ---
+  44 Dean Huijsen                   DF   CB    44    4.86     30k   1.3  0.40  SELECTED <<<
+  46 Gabriel Magalhaes              DF   CB    46    5.51    100k   0.6  0.40  ---
+  47 William Saliba                 DF   CB    47    4.01    190k   0.5  0.20  ---
+  48 Matheus Nunes                  DF   FB    48    9.28    130k   2.5  0.80  ---
+  49 Pedro Porro                    DF   FB    49    8.18     85k   2.0  0.70  ---
+  59 Murillo                        DF   CB    59    2.74     30k   0.8  0.40  ---
+  61 Rayan Ait-Nouri                DF   FB    61    7.32     30k   1.5  0.50  ---
+  65 Diogo Dalot                    DF   FB    65    5.48     85k   1.1  0.70  ---
+  66 Jurrien Timber                 DF   FB    66    3.53     90k   3.3  0.70  ---
+  70 Ibrahima Konate                DF   CB    70    3.60     70k   1.2  0.30  ---
+  73 Neco Williams                  DF   FB    73    5.06     50k   0.7  0.60  ---
+  76 James Tarkowski                DF   CB    76    4.28    100k   0.7  0.30  ---
+  78 Milos Kerkez                   DF   FB    78    3.24     30k   1.2  0.40  ---
+  79 Lisandro Martinez              DF   CB    79    5.03    120k   1.0  0.50  ---
+  81 Illia Zabarnyi                 DF   CB    81    2.23     50k   0.5  0.30  ---
+  82 Ruben Dias                     DF   CB    82    4.05    180k   1.4  0.30  ---
+  84 Ola Aina                       DF   FB    84    3.26     40k   0.7  0.60  ---
+  86 Lewis Hall                     DF   FB    86    6.44      7k   3.3  0.40  ---
+  88 Tyrick Mitchell                DF   FB    88    5.53     40k   0.9  0.70  ---
+  90 Kenny Tete                     DF   FB    90    3.90     50k   1.0  0.60  ---
+  92 Pervis Estupinan               DF   FB    92    5.21     50k   1.5  0.60  ---
+  95 Trevoh Chalobah                DF   CB    95    4.59     50k   1.0  0.40  SELECTED <<<
+  97 Mats Wieffer                   DF   FB    97    5.97     60k   1.2  0.60  ---
+ 100 Nikola Milenkovic              DF   CB   100    4.68    105k   1.1  0.50  ---
+  40 Jordan Pickford                GK    -    40    6.15    125k   3.6  0.20  ---
+  45 David Raya                     GK    -    45    1.99    100k   2.6  0.30  ---
+  58 Nick Pope                      GK    -    58    0.07     60k   2.4  0.30  ---
+  60 Alisson Becker                 GK    -    60    2.90    150k   4.5  0.20  ---
+  63 Robert Sanchez                 GK    -    63    2.48     60k   3.7  0.40  ---
+  71 Ederson                        GK    -    71    6.52    100k   3.1  0.40  SELECTED <<<
+  77 Matz Sels                      GK    -    77    4.55     35k   4.0  0.50  ---
+  94 Mark Flekken                   GK    -    94   -1.63     30k   3.0  0.30  ---
+
+--- BEST XI: Model 1a: Deterministic (4-3-3) ---
+  Name                          Pos  Sub       mu    Wage    Sig    Bet
+  ----------------------------------------------------------------------
+  Ederson                        GK    -     6.52     100k    3.1   0.40
+  Dean Huijsen                   DF   CB     4.86      30k    1.3   0.40
+  Trevoh Chalobah                DF   CB     4.59      50k    1.0   0.40
+  Trent Alexander-Arnold         DF   FB    14.07     180k    2.4   0.60
+  Cole Palmer                    MF    -    24.05     130k    5.7   0.20
+  Kevin De Bruyne                MF    -    23.70     400k    5.3   0.40
+  James Maddison                 MF    -    24.48     170k    2.0   0.60
+  Yoane Wissa                    FW    -    23.86      25k    1.8   0.50
+  Bukayo Saka                    FW    -    27.32     195k    3.8   0.30
+  Alexander Isak                 FW    -    25.78     120k    5.0   0.20
+  Luis Diaz                      FW    -    23.39      55k    5.3   0.40
+  ----------------------------------------------------------------------
+  TOTAL                                      202.62    1455k
+
+  Deterministic squad: MAD=9.919, CVaR=19.639
+
+Calibrating Model 1b: Mean-MAD...
+  Trying MAD bound = 0.50 * det_MAD = 4.960...
+  --> Found different squad at frac=0.50
+
+====================================================================================================
+FULL PLAYER TABLE  Model 1b: Mean-MAD
+====================================================================================================
+   # Name                          Pos  Sub  Rank      mu   Wage   Sig   Bet  Status
+----------------------------------------------------------------------------------------------------
+   1 Mohamed Salah                  FW    -     1   27.68    350k   2.5  0.20  ---
+   4 Bryan Mbeumo                   FW    -     4   16.81     45k   3.8  0.30  ---
+   5 Erling Haaland                 FW    -     5   26.05    375k   4.0  0.40  ---
+   6 Matheus Cunha                  FW    -     6   18.30     60k   3.5  0.20  ---
+   7 Bukayo Saka                    FW    -     7   27.32    195k   3.8  0.30  SELECTED <<<
+  11 Alexander Isak                 FW    -    11   25.78    120k   5.0  0.20  ---
+  17 Luis Diaz                      FW    -    17   23.39     55k   5.3  0.40  ---
+  19 Savinho                        FW    -    19   21.47     40k   3.4  0.40  ---
+  23 Jeremy Doku                    FW    -    23   11.57     50k   4.6  0.30  ---
+  28 Yoane Wissa                    FW    -    28   23.86     25k   1.8  0.50  SELECTED <<<
+  29 Antoine Semenyo                FW    -    29   15.27     50k   2.2  0.50  ---
+  43 Heung-Min Son                  FW    -    43   17.63    190k   3.3  0.30  ---
+  50 Jarrod Bowen                   FW    -    50   16.44    150k   1.8  0.30  ---
+  51 Callum Hudson-Odoi             FW    -    51    7.89     80k   2.8  0.50  ---
+  53 Noni Madueke                   FW    -    53   21.38     50k   2.3  0.30  SELECTED <<<
+  56 Joao Pedro                     FW    -    56   14.10     50k   4.6  0.40  ---
+  62 Justin Kluivert                FW    -    62   13.22     80k   2.6  0.50  ---
+  67 Iliman Ndiaye                  FW    -    67    8.44     45k   3.0  0.30  ---
+  68 Kaoru Mitoma                   FW    -    68   17.31     80k   3.2  0.30  ---
+  69 Dango Ouattara                 FW    -    69   19.86     35k   2.0  0.60  ---
+  72 Cody Gakpo                     FW    -    72   19.15    120k   3.2  0.40  ---
+  80 Kai Havertz                    FW    -    80   20.49    280k   1.5  0.70  SELECTED <<<
+  83 Ismaila Sarr                   FW    -    83   22.00     70k   2.4  0.60  ---
+  85 Anthony Gordon                 FW    -    85   16.18    150k   2.9  0.40  ---
+  87 Chris Wood                     FW    -    87   14.38     80k   7.2  0.50  ---
+  89 Nicolas Jackson                FW    -    89   21.79    100k   4.9  0.50  ---
+  99 Leandro Trossard               FW    -    99   15.18     90k   3.8  0.50  ---
+   2 Cole Palmer                    MF    -     2   24.05    130k   5.7  0.20  ---
+   3 Bruno Fernandes                MF    -     3   17.61    300k   1.0  0.30  SELECTED <<<
+   8 Amad Diallo                    MF    -     8   15.94     29k   2.4  0.60  ---
+   9 Moises Caicedo                 MF    -     9    3.71    150k   1.4  0.30  ---
+  10 Eberechi Eze                   MF    -    10   17.89    100k   6.3  0.20  ---
+  12 Youri Tielemans                MF    -    12    9.23    150k   1.0  0.50  ---
+  14 Alexis Mac Allister            MF    -    14   11.11    150k   1.5  0.50  ---
+  16 Thomas Partey                  MF    -    16    6.00    200k   1.3  0.60  ---
+  21 Declan Rice                    MF    -    21   11.03    240k   2.3  0.40  ---
+  24 Mateo Kovacic                  MF    -    24    7.94    150k   1.3  0.50  ---
+  25 Enzo Fernandez                 MF    -    25   14.34    180k   2.4  0.60  ---
+  26 Ryan Gravenberch               MF    -    26    5.02    150k   2.0  0.70  ---
+  27 James Maddison                 MF    -    27   24.48    170k   2.0  0.60  SELECTED <<<
+  30 Bernardo Silva                 MF    -    30   10.82    300k   2.5  0.60  ---
+  31 Alex Iwobi                     MF    -    31   12.87     80k   3.0  0.60  ---
+  33 Bruno Guimaraes                MF    -    33   10.11    160k   2.5  0.30  ---
+  34 Ryan Christie                  MF    -    34    8.20     70k   1.0  0.80  ---
+  35 Morgan Gibbs-White             MF    -    35   13.37     80k   1.1  0.40  SELECTED <<<
+  36 Ilkay Gundogan                 MF    -    36   11.52    230k   4.9  0.70  ---
+  37 Christian Norgaard             MF    -    37    6.93     35k   1.0  0.40  ---
+  38 Mikkel Damsgaard               MF    -    38   11.48     30k   3.3  0.60  ---
+  39 Kevin De Bruyne                MF    -    39   23.70    400k   5.3  0.40  ---
+  41 Jacob Murphy                   MF    -    41   17.06     35k   3.3  0.60  ---
+  42 Martin Odegaard                MF    -    42   15.69    240k   2.8  0.40  ---
+  52 Dominik Szoboszlai             MF    -    52   18.11    120k   2.7  0.50  ---
+  54 Elliot Anderson                MF    -    54    7.16     40k   2.2  0.60  ---
+  55 Dwight McNeil                  MF    -    55   13.50     25k   2.1  0.30  ---
+  57 Sandro Tonali                  MF    -    57    9.31    120k   2.2  0.30  ---
+  64 Carlos Baleba                  MF    -    64    5.50     13k   1.0  0.50  ---
+  74 Casemiro                       MF    -    74    8.75    350k   2.4  0.80  ---
+  75 Lewis Cook                     MF    -    75    5.39     60k   1.0  0.50  ---
+  91 Marcus Tavernier               MF    -    91   16.11     35k   2.8  0.60  ---
+  93 Joelinton                      MF    -    93    8.93    150k   2.8  0.50  ---
+  96 Idrissa Gana Gueye             MF    -    96    3.38    120k   1.0  0.30  ---
+  98 Morgan Rogers                  MF    -    98   12.92     75k   1.8  0.40  ---
+  13 Trent Alexander-Arnold         DF   FB    13   14.07    180k   2.4  0.60  ---
+  15 Daniel Munoz                   DF   FB    15   10.24     45k   1.5  0.60  ---
+  18 Josko Gvardiol                 DF   FB    18    7.82    200k   2.1  0.50  ---
+  20 Virgil van Dijk                DF   CB    20    3.31    220k   0.5  0.20  ---
+  22 Antonee Robinson               DF   FB    22    5.22     50k   1.1  0.50  ---
+  32 Aaron Wan-Bissaka              DF   FB    32    4.30     90k   1.1  0.40  ---
+  44 Dean Huijsen                   DF   CB    44    4.86     30k   1.3  0.40  ---
+  46 Gabriel Magalhaes              DF   CB    46    5.51    100k   0.6  0.40  SELECTED <<<
+  47 William Saliba                 DF   CB    47    4.01    190k   0.5  0.20  ---
+  48 Matheus Nunes                  DF   FB    48    9.28    130k   2.5  0.80  ---
+  49 Pedro Porro                    DF   FB    49    8.18     85k   2.0  0.70  ---
+  59 Murillo                        DF   CB    59    2.74     30k   0.8  0.40  ---
+  61 Rayan Ait-Nouri                DF   FB    61    7.32     30k   1.5  0.50  ---
+  65 Diogo Dalot                    DF   FB    65    5.48     85k   1.1  0.70  ---
+  66 Jurrien Timber                 DF   FB    66    3.53     90k   3.3  0.70  ---
+  70 Ibrahima Konate                DF   CB    70    3.60     70k   1.2  0.30  ---
+  73 Neco Williams                  DF   FB    73    5.06     50k   0.7  0.60  ---
+  76 James Tarkowski                DF   CB    76    4.28    100k   0.7  0.30  SELECTED <<<
+  78 Milos Kerkez                   DF   FB    78    3.24     30k   1.2  0.40  SELECTED <<<
+  79 Lisandro Martinez              DF   CB    79    5.03    120k   1.0  0.50  ---
+  81 Illia Zabarnyi                 DF   CB    81    2.23     50k   0.5  0.30  ---
+  82 Ruben Dias                     DF   CB    82    4.05    180k   1.4  0.30  ---
+  84 Ola Aina                       DF   FB    84    3.26     40k   0.7  0.60  ---
+  86 Lewis Hall                     DF   FB    86    6.44      7k   3.3  0.40  ---
+  88 Tyrick Mitchell                DF   FB    88    5.53     40k   0.9  0.70  ---
+  90 Kenny Tete                     DF   FB    90    3.90     50k   1.0  0.60  ---
+  92 Pervis Estupinan               DF   FB    92    5.21     50k   1.5  0.60  ---
+  95 Trevoh Chalobah                DF   CB    95    4.59     50k   1.0  0.40  ---
+  97 Mats Wieffer                   DF   FB    97    5.97     60k   1.2  0.60  ---
+ 100 Nikola Milenkovic              DF   CB   100    4.68    105k   1.1  0.50  ---
+  40 Jordan Pickford                GK    -    40    6.15    125k   3.6  0.20  ---
+  45 David Raya                     GK    -    45    1.99    100k   2.6  0.30  SELECTED <<<
+  58 Nick Pope                      GK    -    58    0.07     60k   2.4  0.30  ---
+  60 Alisson Becker                 GK    -    60    2.90    150k   4.5  0.20  ---
+  63 Robert Sanchez                 GK    -    63    2.48     60k   3.7  0.40  ---
+  71 Ederson                        GK    -    71    6.52    100k   3.1  0.40  ---
+  77 Matz Sels                      GK    -    77    4.55     35k   4.0  0.50  ---
+  94 Mark Flekken                   GK    -    94   -1.63     30k   3.0  0.30  ---
+
+--- BEST XI: Model 1b: Mean-MAD (4-3-3) ---
+  Name                          Pos  Sub       mu    Wage    Sig    Bet
+  ----------------------------------------------------------------------
+  David Raya                     GK    -     1.99     100k    2.6   0.30
+  Gabriel Magalhaes              DF   CB     5.51     100k    0.6   0.40
+  James Tarkowski                DF   CB     4.28     100k    0.7   0.30
+  Milos Kerkez                   DF   FB     3.24      30k    1.2   0.40
+  Bruno Fernandes                MF    -    17.61     300k    1.0   0.30
+  Morgan Gibbs-White             MF    -    13.37      80k    1.1   0.40
+  James Maddison                 MF    -    24.48     170k    2.0   0.60
+  Kai Havertz                    FW    -    20.49     280k    1.5   0.70
+  Bukayo Saka                    FW    -    27.32     195k    3.8   0.30
+  Yoane Wissa                    FW    -    23.86      25k    1.8   0.50
+  Noni Madueke                   FW    -    21.38      50k    2.3   0.30
+  ----------------------------------------------------------------------
+  TOTAL                                      163.54    1430k
+
+  Comparison: Deterministic -> Mean-MAD
+  Same (3): Yoane Wissa, Bukayo Saka, James Maddison
+  OUT  (8): Ederson, Dean Huijsen, Alexander Isak, Luis Diaz, Kevin De Bruyne, Trevoh Chalobah, Cole Palmer, Trent Alexander-Arnold
+  IN   (8): Gabriel Magalhaes, Morgan Gibbs-White, Noni Madueke, James Tarkowski, Milos Kerkez, Kai Havertz, Bruno Fernandes, David Raya
+
+Calibrating Model 1c: Mean-CVaR...
+  Scanning for minimum feasible CVaR bound...
+  frac=0.50: Infeasible
+  frac=0.55: Infeasible
+  frac=0.60: Infeasible
+  frac=0.65: Infeasible
+  frac=0.70: Infeasible
+  frac=0.75: Infeasible
+  frac=0.80: Infeasible
+  frac=0.85: Infeasible
+  Min feasible CVaR bound = 0.90 * det_CVaR = 17.675
+  --> Found different CVaR squad at bound=17.675
+
+====================================================================================================
+FULL PLAYER TABLE  Model 1c: Mean-CVaR
+====================================================================================================
+   # Name                          Pos  Sub  Rank      mu   Wage   Sig   Bet  Status
+----------------------------------------------------------------------------------------------------
+   1 Mohamed Salah                  FW    -     1   27.68    350k   2.5  0.20  SELECTED <<<
+   4 Bryan Mbeumo                   FW    -     4   16.81     45k   3.8  0.30  ---
+   5 Erling Haaland                 FW    -     5   26.05    375k   4.0  0.40  ---
+   6 Matheus Cunha                  FW    -     6   18.30     60k   3.5  0.20  ---
+   7 Bukayo Saka                    FW    -     7   27.32    195k   3.8  0.30  SELECTED <<<
+  11 Alexander Isak                 FW    -    11   25.78    120k   5.0  0.20  SELECTED <<<
+  17 Luis Diaz                      FW    -    17   23.39     55k   5.3  0.40  ---
+  19 Savinho                        FW    -    19   21.47     40k   3.4  0.40  ---
+  23 Jeremy Doku                    FW    -    23   11.57     50k   4.6  0.30  ---
+  28 Yoane Wissa                    FW    -    28   23.86     25k   1.8  0.50  SELECTED <<<
+  29 Antoine Semenyo                FW    -    29   15.27     50k   2.2  0.50  ---
+  43 Heung-Min Son                  FW    -    43   17.63    190k   3.3  0.30  ---
+  50 Jarrod Bowen                   FW    -    50   16.44    150k   1.8  0.30  ---
+  51 Callum Hudson-Odoi             FW    -    51    7.89     80k   2.8  0.50  ---
+  53 Noni Madueke                   FW    -    53   21.38     50k   2.3  0.30  ---
+  56 Joao Pedro                     FW    -    56   14.10     50k   4.6  0.40  ---
+  62 Justin Kluivert                FW    -    62   13.22     80k   2.6  0.50  ---
+  67 Iliman Ndiaye                  FW    -    67    8.44     45k   3.0  0.30  ---
+  68 Kaoru Mitoma                   FW    -    68   17.31     80k   3.2  0.30  ---
+  69 Dango Ouattara                 FW    -    69   19.86     35k   2.0  0.60  ---
+  72 Cody Gakpo                     FW    -    72   19.15    120k   3.2  0.40  ---
+  80 Kai Havertz                    FW    -    80   20.49    280k   1.5  0.70  ---
+  83 Ismaila Sarr                   FW    -    83   22.00     70k   2.4  0.60  ---
+  85 Anthony Gordon                 FW    -    85   16.18    150k   2.9  0.40  ---
+  87 Chris Wood                     FW    -    87   14.38     80k   7.2  0.50  ---
+  89 Nicolas Jackson                FW    -    89   21.79    100k   4.9  0.50  ---
+  99 Leandro Trossard               FW    -    99   15.18     90k   3.8  0.50  ---
+   2 Cole Palmer                    MF    -     2   24.05    130k   5.7  0.20  SELECTED <<<
+   3 Bruno Fernandes                MF    -     3   17.61    300k   1.0  0.30  ---
+   8 Amad Diallo                    MF    -     8   15.94     29k   2.4  0.60  ---
+   9 Moises Caicedo                 MF    -     9    3.71    150k   1.4  0.30  ---
+  10 Eberechi Eze                   MF    -    10   17.89    100k   6.3  0.20  ---
+  12 Youri Tielemans                MF    -    12    9.23    150k   1.0  0.50  ---
+  14 Alexis Mac Allister            MF    -    14   11.11    150k   1.5  0.50  ---
+  16 Thomas Partey                  MF    -    16    6.00    200k   1.3  0.60  ---
+  21 Declan Rice                    MF    -    21   11.03    240k   2.3  0.40  ---
+  24 Mateo Kovacic                  MF    -    24    7.94    150k   1.3  0.50  ---
+  25 Enzo Fernandez                 MF    -    25   14.34    180k   2.4  0.60  ---
+  26 Ryan Gravenberch               MF    -    26    5.02    150k   2.0  0.70  ---
+  27 James Maddison                 MF    -    27   24.48    170k   2.0  0.60  SELECTED <<<
+  30 Bernardo Silva                 MF    -    30   10.82    300k   2.5  0.60  ---
+  31 Alex Iwobi                     MF    -    31   12.87     80k   3.0  0.60  ---
+  33 Bruno Guimaraes                MF    -    33   10.11    160k   2.5  0.30  ---
+  34 Ryan Christie                  MF    -    34    8.20     70k   1.0  0.80  ---
+  35 Morgan Gibbs-White             MF    -    35   13.37     80k   1.1  0.40  ---
+  36 Ilkay Gundogan                 MF    -    36   11.52    230k   4.9  0.70  ---
+  37 Christian Norgaard             MF    -    37    6.93     35k   1.0  0.40  ---
+  38 Mikkel Damsgaard               MF    -    38   11.48     30k   3.3  0.60  ---
+  39 Kevin De Bruyne                MF    -    39   23.70    400k   5.3  0.40  ---
+  41 Jacob Murphy                   MF    -    41   17.06     35k   3.3  0.60  ---
+  42 Martin Odegaard                MF    -    42   15.69    240k   2.8  0.40  ---
+  52 Dominik Szoboszlai             MF    -    52   18.11    120k   2.7  0.50  SELECTED <<<
+  54 Elliot Anderson                MF    -    54    7.16     40k   2.2  0.60  ---
+  55 Dwight McNeil                  MF    -    55   13.50     25k   2.1  0.30  ---
+  57 Sandro Tonali                  MF    -    57    9.31    120k   2.2  0.30  ---
+  64 Carlos Baleba                  MF    -    64    5.50     13k   1.0  0.50  ---
+  74 Casemiro                       MF    -    74    8.75    350k   2.4  0.80  ---
+  75 Lewis Cook                     MF    -    75    5.39     60k   1.0  0.50  ---
+  91 Marcus Tavernier               MF    -    91   16.11     35k   2.8  0.60  ---
+  93 Joelinton                      MF    -    93    8.93    150k   2.8  0.50  ---
+  96 Idrissa Gana Gueye             MF    -    96    3.38    120k   1.0  0.30  ---
+  98 Morgan Rogers                  MF    -    98   12.92     75k   1.8  0.40  ---
+  13 Trent Alexander-Arnold         DF   FB    13   14.07    180k   2.4  0.60  SELECTED <<<
+  15 Daniel Munoz                   DF   FB    15   10.24     45k   1.5  0.60  ---
+  18 Josko Gvardiol                 DF   FB    18    7.82    200k   2.1  0.50  ---
+  20 Virgil van Dijk                DF   CB    20    3.31    220k   0.5  0.20  ---
+  22 Antonee Robinson               DF   FB    22    5.22     50k   1.1  0.50  ---
+  32 Aaron Wan-Bissaka              DF   FB    32    4.30     90k   1.1  0.40  ---
+  44 Dean Huijsen                   DF   CB    44    4.86     30k   1.3  0.40  SELECTED <<<
+  46 Gabriel Magalhaes              DF   CB    46    5.51    100k   0.6  0.40  ---
+  47 William Saliba                 DF   CB    47    4.01    190k   0.5  0.20  ---
+  48 Matheus Nunes                  DF   FB    48    9.28    130k   2.5  0.80  ---
+  49 Pedro Porro                    DF   FB    49    8.18     85k   2.0  0.70  ---
+  59 Murillo                        DF   CB    59    2.74     30k   0.8  0.40  ---
+  61 Rayan Ait-Nouri                DF   FB    61    7.32     30k   1.5  0.50  ---
+  65 Diogo Dalot                    DF   FB    65    5.48     85k   1.1  0.70  ---
+  66 Jurrien Timber                 DF   FB    66    3.53     90k   3.3  0.70  ---
+  70 Ibrahima Konate                DF   CB    70    3.60     70k   1.2  0.30  ---
+  73 Neco Williams                  DF   FB    73    5.06     50k   0.7  0.60  ---
+  76 James Tarkowski                DF   CB    76    4.28    100k   0.7  0.30  ---
+  78 Milos Kerkez                   DF   FB    78    3.24     30k   1.2  0.40  ---
+  79 Lisandro Martinez              DF   CB    79    5.03    120k   1.0  0.50  ---
+  81 Illia Zabarnyi                 DF   CB    81    2.23     50k   0.5  0.30  ---
+  82 Ruben Dias                     DF   CB    82    4.05    180k   1.4  0.30  ---
+  84 Ola Aina                       DF   FB    84    3.26     40k   0.7  0.60  ---
+  86 Lewis Hall                     DF   FB    86    6.44      7k   3.3  0.40  ---
+  88 Tyrick Mitchell                DF   FB    88    5.53     40k   0.9  0.70  ---
+  90 Kenny Tete                     DF   FB    90    3.90     50k   1.0  0.60  ---
+  92 Pervis Estupinan               DF   FB    92    5.21     50k   1.5  0.60  ---
+  95 Trevoh Chalobah                DF   CB    95    4.59     50k   1.0  0.40  SELECTED <<<
+  97 Mats Wieffer                   DF   FB    97    5.97     60k   1.2  0.60  ---
+ 100 Nikola Milenkovic              DF   CB   100    4.68    105k   1.1  0.50  ---
+  40 Jordan Pickford                GK    -    40    6.15    125k   3.6  0.20  ---
+  45 David Raya                     GK    -    45    1.99    100k   2.6  0.30  ---
+  58 Nick Pope                      GK    -    58    0.07     60k   2.4  0.30  ---
+  60 Alisson Becker                 GK    -    60    2.90    150k   4.5  0.20  ---
+  63 Robert Sanchez                 GK    -    63    2.48     60k   3.7  0.40  ---
+  71 Ederson                        GK    -    71    6.52    100k   3.1  0.40  SELECTED <<<
+  77 Matz Sels                      GK    -    77    4.55     35k   4.0  0.50  ---
+  94 Mark Flekken                   GK    -    94   -1.63     30k   3.0  0.30  ---
+
+--- BEST XI: Model 1c: Mean-CVaR (4-3-3) ---
+  Name                          Pos  Sub       mu    Wage    Sig    Bet
+  ----------------------------------------------------------------------
+  Ederson                        GK    -     6.52     100k    3.1   0.40
+  Dean Huijsen                   DF   CB     4.86      30k    1.3   0.40
+  Trevoh Chalobah                DF   CB     4.59      50k    1.0   0.40
+  Trent Alexander-Arnold         DF   FB    14.07     180k    2.4   0.60
+  Cole Palmer                    MF    -    24.05     130k    5.7   0.20
+  Dominik Szoboszlai             MF    -    18.11     120k    2.7   0.50
+  James Maddison                 MF    -    24.48     170k    2.0   0.60
+  Yoane Wissa                    FW    -    23.86      25k    1.8   0.50
+  Mohamed Salah                  FW    -    27.68     350k    2.5   0.20
+  Bukayo Saka                    FW    -    27.32     195k    3.8   0.30
+  Alexander Isak                 FW    -    25.78     120k    5.0   0.20
+  ----------------------------------------------------------------------
+  TOTAL                                      201.32    1470k
+
+  Comparison: Deterministic -> Mean-CVaR
+  Same (9): Ederson, Bukayo Saka, Alexander Isak, Dean Huijsen, James Maddison, Yoane Wissa, Trevoh Chalobah, Cole Palmer, Trent Alexander-Arnold
+  OUT  (2): Kevin De Bruyne, Luis Diaz
+  IN   (2): Mohamed Salah, Dominik Szoboszlai
+
+  Comparison: Mean-MAD -> Mean-CVaR
+  Same (3): Yoane Wissa, Bukayo Saka, James Maddison
+  OUT  (8): Gabriel Magalhaes, Morgan Gibbs-White, Noni Madueke, James Tarkowski, Milos Kerkez, Kai Havertz, Bruno Fernandes, David Raya
+  IN   (8): Mohamed Salah, Ederson, Dean Huijsen, Alexander Isak, Dominik Szoboszlai, Trevoh Chalobah, Cole Palmer, Trent Alexander-Arnold
+
+-- RQ1 Summary --
+  Deterministic        E[Perf]=202.62  Wage=1455k  CVaR_ind=19.639  MAD=9.919
+  Mean-MAD             E[Perf]=163.54  Wage=1430k  CVaR_ind=49.177  MAD=4.950
+  Mean-CVaR            E[Perf]=201.32  Wage=1470k  CVaR_ind=17.545  MAD=8.687
+
+====================================================================================================
+EXPERIMENT 2: RQ2 -- PARETO FRONTS (independent vs correlated)
+====================================================================================================
+
+Building independent Pareto front...
+  IND: finding min-CVaR squad...
+  IND: min-CVaR=17.545, det-CVaR=19.639
+  IND point 1/15 (CVaR bound=17.562)...
+  IND point 2/15 (CVaR bound=17.781)...
+  IND point 3/15 (CVaR bound=17.999)...
+  IND point 4/15 (CVaR bound=18.218)...
+  IND point 5/15 (CVaR bound=18.436)...
+  IND point 6/15 (CVaR bound=18.655)...
+  IND point 7/15 (CVaR bound=18.873)...
+  IND point 8/15 (CVaR bound=19.092)...
+  IND point 9/15 (CVaR bound=19.310)...
+  IND point 10/15 (CVaR bound=19.528)...
+  IND point 11/15 (CVaR bound=19.747)...
+  IND point 12/15 (CVaR bound=19.965)...
+  IND point 13/15 (CVaR bound=20.184)...
+  IND point 14/15 (CVaR bound=20.402)...
+  IND point 15/15 (CVaR bound=20.621)...
+
+Building correlated Pareto front...
+  COR: finding min-CVaR squad...
+  COR: min-CVaR=31.990, det-CVaR=33.032
+  COR point 1/15 (CVaR bound=32.022)...
+  COR point 2/15 (CVaR bound=32.212)...
+  COR point 3/15 (CVaR bound=32.402)...
+  COR point 4/15 (CVaR bound=32.592)...
+  COR point 5/15 (CVaR bound=32.782)...
+  COR point 6/15 (CVaR bound=32.972)...
+  COR point 7/15 (CVaR bound=33.162)...
+  COR point 8/15 (CVaR bound=33.352)...
+  COR point 9/15 (CVaR bound=33.543)...
+  COR point 10/15 (CVaR bound=33.733)...
+  COR point 11/15 (CVaR bound=33.923)...
+  COR point 12/15 (CVaR bound=34.113)...
+  COR point 13/15 (CVaR bound=34.303)...
+  COR point 14/15 (CVaR bound=34.493)...
+  COR point 15/15 (CVaR bound=34.683)...
+
+====================================================================================================
+FULL PLAYER TABLE  Exp2: Mid-front INDEPENDENT
+====================================================================================================
+   # Name                          Pos  Sub  Rank      mu   Wage   Sig   Bet  Status
+----------------------------------------------------------------------------------------------------
+   1 Mohamed Salah                  FW    -     1   27.68    350k   2.5  0.20  SELECTED <<<
+   4 Bryan Mbeumo                   FW    -     4   16.81     45k   3.8  0.30  ---
+   5 Erling Haaland                 FW    -     5   26.05    375k   4.0  0.40  ---
+   6 Matheus Cunha                  FW    -     6   18.30     60k   3.5  0.20  ---
+   7 Bukayo Saka                    FW    -     7   27.32    195k   3.8  0.30  SELECTED <<<
+  11 Alexander Isak                 FW    -    11   25.78    120k   5.0  0.20  SELECTED <<<
+  17 Luis Diaz                      FW    -    17   23.39     55k   5.3  0.40  ---
+  19 Savinho                        FW    -    19   21.47     40k   3.4  0.40  ---
+  23 Jeremy Doku                    FW    -    23   11.57     50k   4.6  0.30  ---
+  28 Yoane Wissa                    FW    -    28   23.86     25k   1.8  0.50  SELECTED <<<
+  29 Antoine Semenyo                FW    -    29   15.27     50k   2.2  0.50  ---
+  43 Heung-Min Son                  FW    -    43   17.63    190k   3.3  0.30  ---
+  50 Jarrod Bowen                   FW    -    50   16.44    150k   1.8  0.30  ---
+  51 Callum Hudson-Odoi             FW    -    51    7.89     80k   2.8  0.50  ---
+  53 Noni Madueke                   FW    -    53   21.38     50k   2.3  0.30  ---
+  56 Joao Pedro                     FW    -    56   14.10     50k   4.6  0.40  ---
+  62 Justin Kluivert                FW    -    62   13.22     80k   2.6  0.50  ---
+  67 Iliman Ndiaye                  FW    -    67    8.44     45k   3.0  0.30  ---
+  68 Kaoru Mitoma                   FW    -    68   17.31     80k   3.2  0.30  ---
+  69 Dango Ouattara                 FW    -    69   19.86     35k   2.0  0.60  ---
+  72 Cody Gakpo                     FW    -    72   19.15    120k   3.2  0.40  ---
+  80 Kai Havertz                    FW    -    80   20.49    280k   1.5  0.70  ---
+  83 Ismaila Sarr                   FW    -    83   22.00     70k   2.4  0.60  ---
+  85 Anthony Gordon                 FW    -    85   16.18    150k   2.9  0.40  ---
+  87 Chris Wood                     FW    -    87   14.38     80k   7.2  0.50  ---
+  89 Nicolas Jackson                FW    -    89   21.79    100k   4.9  0.50  ---
+  99 Leandro Trossard               FW    -    99   15.18     90k   3.8  0.50  ---
+   2 Cole Palmer                    MF    -     2   24.05    130k   5.7  0.20  SELECTED <<<
+   3 Bruno Fernandes                MF    -     3   17.61    300k   1.0  0.30  ---
+   8 Amad Diallo                    MF    -     8   15.94     29k   2.4  0.60  ---
+   9 Moises Caicedo                 MF    -     9    3.71    150k   1.4  0.30  ---
+  10 Eberechi Eze                   MF    -    10   17.89    100k   6.3  0.20  SELECTED <<<
+  12 Youri Tielemans                MF    -    12    9.23    150k   1.0  0.50  ---
+  14 Alexis Mac Allister            MF    -    14   11.11    150k   1.5  0.50  ---
+  16 Thomas Partey                  MF    -    16    6.00    200k   1.3  0.60  ---
+  21 Declan Rice                    MF    -    21   11.03    240k   2.3  0.40  ---
+  24 Mateo Kovacic                  MF    -    24    7.94    150k   1.3  0.50  ---
+  25 Enzo Fernandez                 MF    -    25   14.34    180k   2.4  0.60  ---
+  26 Ryan Gravenberch               MF    -    26    5.02    150k   2.0  0.70  ---
+  27 James Maddison                 MF    -    27   24.48    170k   2.0  0.60  SELECTED <<<
+  30 Bernardo Silva                 MF    -    30   10.82    300k   2.5  0.60  ---
+  31 Alex Iwobi                     MF    -    31   12.87     80k   3.0  0.60  ---
+  33 Bruno Guimaraes                MF    -    33   10.11    160k   2.5  0.30  ---
+  34 Ryan Christie                  MF    -    34    8.20     70k   1.0  0.80  ---
+  35 Morgan Gibbs-White             MF    -    35   13.37     80k   1.1  0.40  ---
+  36 Ilkay Gundogan                 MF    -    36   11.52    230k   4.9  0.70  ---
+  37 Christian Norgaard             MF    -    37    6.93     35k   1.0  0.40  ---
+  38 Mikkel Damsgaard               MF    -    38   11.48     30k   3.3  0.60  ---
+  39 Kevin De Bruyne                MF    -    39   23.70    400k   5.3  0.40  ---
+  41 Jacob Murphy                   MF    -    41   17.06     35k   3.3  0.60  ---
+  42 Martin Odegaard                MF    -    42   15.69    240k   2.8  0.40  ---
+  52 Dominik Szoboszlai             MF    -    52   18.11    120k   2.7  0.50  ---
+  54 Elliot Anderson                MF    -    54    7.16     40k   2.2  0.60  ---
+  55 Dwight McNeil                  MF    -    55   13.50     25k   2.1  0.30  ---
+  57 Sandro Tonali                  MF    -    57    9.31    120k   2.2  0.30  ---
+  64 Carlos Baleba                  MF    -    64    5.50     13k   1.0  0.50  ---
+  74 Casemiro                       MF    -    74    8.75    350k   2.4  0.80  ---
+  75 Lewis Cook                     MF    -    75    5.39     60k   1.0  0.50  ---
+  91 Marcus Tavernier               MF    -    91   16.11     35k   2.8  0.60  ---
+  93 Joelinton                      MF    -    93    8.93    150k   2.8  0.50  ---
+  96 Idrissa Gana Gueye             MF    -    96    3.38    120k   1.0  0.30  ---
+  98 Morgan Rogers                  MF    -    98   12.92     75k   1.8  0.40  ---
+  13 Trent Alexander-Arnold         DF   FB    13   14.07    180k   2.4  0.60  SELECTED <<<
+  15 Daniel Munoz                   DF   FB    15   10.24     45k   1.5  0.60  ---
+  18 Josko Gvardiol                 DF   FB    18    7.82    200k   2.1  0.50  ---
+  20 Virgil van Dijk                DF   CB    20    3.31    220k   0.5  0.20  ---
+  22 Antonee Robinson               DF   FB    22    5.22     50k   1.1  0.50  ---
+  32 Aaron Wan-Bissaka              DF   FB    32    4.30     90k   1.1  0.40  ---
+  44 Dean Huijsen                   DF   CB    44    4.86     30k   1.3  0.40  SELECTED <<<
+  46 Gabriel Magalhaes              DF   CB    46    5.51    100k   0.6  0.40  SELECTED <<<
+  47 William Saliba                 DF   CB    47    4.01    190k   0.5  0.20  ---
+  48 Matheus Nunes                  DF   FB    48    9.28    130k   2.5  0.80  ---
+  49 Pedro Porro                    DF   FB    49    8.18     85k   2.0  0.70  ---
+  59 Murillo                        DF   CB    59    2.74     30k   0.8  0.40  ---
+  61 Rayan Ait-Nouri                DF   FB    61    7.32     30k   1.5  0.50  ---
+  65 Diogo Dalot                    DF   FB    65    5.48     85k   1.1  0.70  ---
+  66 Jurrien Timber                 DF   FB    66    3.53     90k   3.3  0.70  ---
+  70 Ibrahima Konate                DF   CB    70    3.60     70k   1.2  0.30  ---
+  73 Neco Williams                  DF   FB    73    5.06     50k   0.7  0.60  ---
+  76 James Tarkowski                DF   CB    76    4.28    100k   0.7  0.30  ---
+  78 Milos Kerkez                   DF   FB    78    3.24     30k   1.2  0.40  ---
+  79 Lisandro Martinez              DF   CB    79    5.03    120k   1.0  0.50  ---
+  81 Illia Zabarnyi                 DF   CB    81    2.23     50k   0.5  0.30  ---
+  82 Ruben Dias                     DF   CB    82    4.05    180k   1.4  0.30  ---
+  84 Ola Aina                       DF   FB    84    3.26     40k   0.7  0.60  ---
+  86 Lewis Hall                     DF   FB    86    6.44      7k   3.3  0.40  ---
+  88 Tyrick Mitchell                DF   FB    88    5.53     40k   0.9  0.70  ---
+  90 Kenny Tete                     DF   FB    90    3.90     50k   1.0  0.60  ---
+  92 Pervis Estupinan               DF   FB    92    5.21     50k   1.5  0.60  ---
+  95 Trevoh Chalobah                DF   CB    95    4.59     50k   1.0  0.40  ---
+  97 Mats Wieffer                   DF   FB    97    5.97     60k   1.2  0.60  ---
+ 100 Nikola Milenkovic              DF   CB   100    4.68    105k   1.1  0.50  ---
+  40 Jordan Pickford                GK    -    40    6.15    125k   3.6  0.20  ---
+  45 David Raya                     GK    -    45    1.99    100k   2.6  0.30  ---
+  58 Nick Pope                      GK    -    58    0.07     60k   2.4  0.30  ---
+  60 Alisson Becker                 GK    -    60    2.90    150k   4.5  0.20  ---
+  63 Robert Sanchez                 GK    -    63    2.48     60k   3.7  0.40  ---
+  71 Ederson                        GK    -    71    6.52    100k   3.1  0.40  SELECTED <<<
+  77 Matz Sels                      GK    -    77    4.55     35k   4.0  0.50  ---
+  94 Mark Flekken                   GK    -    94   -1.63     30k   3.0  0.30  ---
+
+--- BEST XI: Mid-front Independent (4-3-3) ---
+  Name                          Pos  Sub       mu    Wage    Sig    Bet
+  ----------------------------------------------------------------------
+  Ederson                        GK    -     6.52     100k    3.1   0.40
+  Dean Huijsen                   DF   CB     4.86      30k    1.3   0.40
+  Gabriel Magalhaes              DF   CB     5.51     100k    0.6   0.40
+  Trent Alexander-Arnold         DF   FB    14.07     180k    2.4   0.60
+  Cole Palmer                    MF    -    24.05     130k    5.7   0.20
+  James Maddison                 MF    -    24.48     170k    2.0   0.60
+  Eberechi Eze                   MF    -    17.89     100k    6.3   0.20
+  Yoane Wissa                    FW    -    23.86      25k    1.8   0.50
+  Mohamed Salah                  FW    -    27.68     350k    2.5   0.20
+  Bukayo Saka                    FW    -    27.32     195k    3.8   0.30
+  Alexander Isak                 FW    -    25.78     120k    5.0   0.20
+  ----------------------------------------------------------------------
+  TOTAL                                      202.02    1500k
+
+====================================================================================================
+FULL PLAYER TABLE  Exp2: Mid-front CORRELATED
+====================================================================================================
+   # Name                          Pos  Sub  Rank      mu   Wage   Sig   Bet  Status
+----------------------------------------------------------------------------------------------------
+   1 Mohamed Salah                  FW    -     1   27.68    350k   2.5  0.20  SELECTED <<<
+   4 Bryan Mbeumo                   FW    -     4   16.81     45k   3.8  0.30  ---
+   5 Erling Haaland                 FW    -     5   26.05    375k   4.0  0.40  ---
+   6 Matheus Cunha                  FW    -     6   18.30     60k   3.5  0.20  ---
+   7 Bukayo Saka                    FW    -     7   27.32    195k   3.8  0.30  SELECTED <<<
+  11 Alexander Isak                 FW    -    11   25.78    120k   5.0  0.20  SELECTED <<<
+  17 Luis Diaz                      FW    -    17   23.39     55k   5.3  0.40  ---
+  19 Savinho                        FW    -    19   21.47     40k   3.4  0.40  ---
+  23 Jeremy Doku                    FW    -    23   11.57     50k   4.6  0.30  ---
+  28 Yoane Wissa                    FW    -    28   23.86     25k   1.8  0.50  SELECTED <<<
+  29 Antoine Semenyo                FW    -    29   15.27     50k   2.2  0.50  ---
+  43 Heung-Min Son                  FW    -    43   17.63    190k   3.3  0.30  ---
+  50 Jarrod Bowen                   FW    -    50   16.44    150k   1.8  0.30  ---
+  51 Callum Hudson-Odoi             FW    -    51    7.89     80k   2.8  0.50  ---
+  53 Noni Madueke                   FW    -    53   21.38     50k   2.3  0.30  ---
+  56 Joao Pedro                     FW    -    56   14.10     50k   4.6  0.40  ---
+  62 Justin Kluivert                FW    -    62   13.22     80k   2.6  0.50  ---
+  67 Iliman Ndiaye                  FW    -    67    8.44     45k   3.0  0.30  ---
+  68 Kaoru Mitoma                   FW    -    68   17.31     80k   3.2  0.30  ---
+  69 Dango Ouattara                 FW    -    69   19.86     35k   2.0  0.60  ---
+  72 Cody Gakpo                     FW    -    72   19.15    120k   3.2  0.40  ---
+  80 Kai Havertz                    FW    -    80   20.49    280k   1.5  0.70  ---
+  83 Ismaila Sarr                   FW    -    83   22.00     70k   2.4  0.60  ---
+  85 Anthony Gordon                 FW    -    85   16.18    150k   2.9  0.40  ---
+  87 Chris Wood                     FW    -    87   14.38     80k   7.2  0.50  ---
+  89 Nicolas Jackson                FW    -    89   21.79    100k   4.9  0.50  ---
+  99 Leandro Trossard               FW    -    99   15.18     90k   3.8  0.50  ---
+   2 Cole Palmer                    MF    -     2   24.05    130k   5.7  0.20  SELECTED <<<
+   3 Bruno Fernandes                MF    -     3   17.61    300k   1.0  0.30  ---
+   8 Amad Diallo                    MF    -     8   15.94     29k   2.4  0.60  ---
+   9 Moises Caicedo                 MF    -     9    3.71    150k   1.4  0.30  ---
+  10 Eberechi Eze                   MF    -    10   17.89    100k   6.3  0.20  ---
+  12 Youri Tielemans                MF    -    12    9.23    150k   1.0  0.50  ---
+  14 Alexis Mac Allister            MF    -    14   11.11    150k   1.5  0.50  ---
+  16 Thomas Partey                  MF    -    16    6.00    200k   1.3  0.60  ---
+  21 Declan Rice                    MF    -    21   11.03    240k   2.3  0.40  ---
+  24 Mateo Kovacic                  MF    -    24    7.94    150k   1.3  0.50  ---
+  25 Enzo Fernandez                 MF    -    25   14.34    180k   2.4  0.60  ---
+  26 Ryan Gravenberch               MF    -    26    5.02    150k   2.0  0.70  ---
+  27 James Maddison                 MF    -    27   24.48    170k   2.0  0.60  SELECTED <<<
+  30 Bernardo Silva                 MF    -    30   10.82    300k   2.5  0.60  ---
+  31 Alex Iwobi                     MF    -    31   12.87     80k   3.0  0.60  ---
+  33 Bruno Guimaraes                MF    -    33   10.11    160k   2.5  0.30  ---
+  34 Ryan Christie                  MF    -    34    8.20     70k   1.0  0.80  ---
+  35 Morgan Gibbs-White             MF    -    35   13.37     80k   1.1  0.40  ---
+  36 Ilkay Gundogan                 MF    -    36   11.52    230k   4.9  0.70  ---
+  37 Christian Norgaard             MF    -    37    6.93     35k   1.0  0.40  ---
+  38 Mikkel Damsgaard               MF    -    38   11.48     30k   3.3  0.60  ---
+  39 Kevin De Bruyne                MF    -    39   23.70    400k   5.3  0.40  ---
+  41 Jacob Murphy                   MF    -    41   17.06     35k   3.3  0.60  ---
+  42 Martin Odegaard                MF    -    42   15.69    240k   2.8  0.40  ---
+  52 Dominik Szoboszlai             MF    -    52   18.11    120k   2.7  0.50  SELECTED <<<
+  54 Elliot Anderson                MF    -    54    7.16     40k   2.2  0.60  ---
+  55 Dwight McNeil                  MF    -    55   13.50     25k   2.1  0.30  ---
+  57 Sandro Tonali                  MF    -    57    9.31    120k   2.2  0.30  ---
+  64 Carlos Baleba                  MF    -    64    5.50     13k   1.0  0.50  ---
+  74 Casemiro                       MF    -    74    8.75    350k   2.4  0.80  ---
+  75 Lewis Cook                     MF    -    75    5.39     60k   1.0  0.50  ---
+  91 Marcus Tavernier               MF    -    91   16.11     35k   2.8  0.60  ---
+  93 Joelinton                      MF    -    93    8.93    150k   2.8  0.50  ---
+  96 Idrissa Gana Gueye             MF    -    96    3.38    120k   1.0  0.30  ---
+  98 Morgan Rogers                  MF    -    98   12.92     75k   1.8  0.40  ---
+  13 Trent Alexander-Arnold         DF   FB    13   14.07    180k   2.4  0.60  SELECTED <<<
+  15 Daniel Munoz                   DF   FB    15   10.24     45k   1.5  0.60  ---
+  18 Josko Gvardiol                 DF   FB    18    7.82    200k   2.1  0.50  ---
+  20 Virgil van Dijk                DF   CB    20    3.31    220k   0.5  0.20  ---
+  22 Antonee Robinson               DF   FB    22    5.22     50k   1.1  0.50  ---
+  32 Aaron Wan-Bissaka              DF   FB    32    4.30     90k   1.1  0.40  ---
+  44 Dean Huijsen                   DF   CB    44    4.86     30k   1.3  0.40  SELECTED <<<
+  46 Gabriel Magalhaes              DF   CB    46    5.51    100k   0.6  0.40  ---
+  47 William Saliba                 DF   CB    47    4.01    190k   0.5  0.20  ---
+  48 Matheus Nunes                  DF   FB    48    9.28    130k   2.5  0.80  ---
+  49 Pedro Porro                    DF   FB    49    8.18     85k   2.0  0.70  ---
+  59 Murillo                        DF   CB    59    2.74     30k   0.8  0.40  ---
+  61 Rayan Ait-Nouri                DF   FB    61    7.32     30k   1.5  0.50  ---
+  65 Diogo Dalot                    DF   FB    65    5.48     85k   1.1  0.70  ---
+  66 Jurrien Timber                 DF   FB    66    3.53     90k   3.3  0.70  ---
+  70 Ibrahima Konate                DF   CB    70    3.60     70k   1.2  0.30  ---
+  73 Neco Williams                  DF   FB    73    5.06     50k   0.7  0.60  ---
+  76 James Tarkowski                DF   CB    76    4.28    100k   0.7  0.30  ---
+  78 Milos Kerkez                   DF   FB    78    3.24     30k   1.2  0.40  ---
+  79 Lisandro Martinez              DF   CB    79    5.03    120k   1.0  0.50  ---
+  81 Illia Zabarnyi                 DF   CB    81    2.23     50k   0.5  0.30  ---
+  82 Ruben Dias                     DF   CB    82    4.05    180k   1.4  0.30  ---
+  84 Ola Aina                       DF   FB    84    3.26     40k   0.7  0.60  ---
+  86 Lewis Hall                     DF   FB    86    6.44      7k   3.3  0.40  ---
+  88 Tyrick Mitchell                DF   FB    88    5.53     40k   0.9  0.70  ---
+  90 Kenny Tete                     DF   FB    90    3.90     50k   1.0  0.60  ---
+  92 Pervis Estupinan               DF   FB    92    5.21     50k   1.5  0.60  ---
+  95 Trevoh Chalobah                DF   CB    95    4.59     50k   1.0  0.40  SELECTED <<<
+  97 Mats Wieffer                   DF   FB    97    5.97     60k   1.2  0.60  ---
+ 100 Nikola Milenkovic              DF   CB   100    4.68    105k   1.1  0.50  ---
+  40 Jordan Pickford                GK    -    40    6.15    125k   3.6  0.20  ---
+  45 David Raya                     GK    -    45    1.99    100k   2.6  0.30  ---
+  58 Nick Pope                      GK    -    58    0.07     60k   2.4  0.30  ---
+  60 Alisson Becker                 GK    -    60    2.90    150k   4.5  0.20  ---
+  63 Robert Sanchez                 GK    -    63    2.48     60k   3.7  0.40  ---
+  71 Ederson                        GK    -    71    6.52    100k   3.1  0.40  SELECTED <<<
+  77 Matz Sels                      GK    -    77    4.55     35k   4.0  0.50  ---
+  94 Mark Flekken                   GK    -    94   -1.63     30k   3.0  0.30  ---
+
+--- BEST XI: Mid-front Correlated (4-3-3) ---
+  Name                          Pos  Sub       mu    Wage    Sig    Bet
+  ----------------------------------------------------------------------
+  Ederson                        GK    -     6.52     100k    3.1   0.40
+  Dean Huijsen                   DF   CB     4.86      30k    1.3   0.40
+  Trevoh Chalobah                DF   CB     4.59      50k    1.0   0.40
+  Trent Alexander-Arnold         DF   FB    14.07     180k    2.4   0.60
+  Cole Palmer                    MF    -    24.05     130k    5.7   0.20
+  Dominik Szoboszlai             MF    -    18.11     120k    2.7   0.50
+  James Maddison                 MF    -    24.48     170k    2.0   0.60
+  Yoane Wissa                    FW    -    23.86      25k    1.8   0.50
+  Mohamed Salah                  FW    -    27.68     350k    2.5   0.20
+  Bukayo Saka                    FW    -    27.32     195k    3.8   0.30
+  Alexander Isak                 FW    -    25.78     120k    5.0   0.20
+  ----------------------------------------------------------------------
+  TOTAL                                      201.32    1470k
+
+  Comparison: Mid-IND -> Mid-COR
+  Same (9): Mohamed Salah, Ederson, Bukayo Saka, Alexander Isak, Dean Huijsen, James Maddison, Yoane Wissa, Cole Palmer, Trent Alexander-Arnold
+  OUT  (2): Gabriel Magalhaes, Eberechi Eze
+  IN   (2): Trevoh Chalobah, Dominik Szoboszlai
+
+  Independent front: 3 points, CVaR=[17.54,19.64], mu=[201.32,202.62]
+  Correlated  front: 5 points, CVaR=[31.99,33.03], mu=[200.95,202.62]
+
+====================================================================================================
+EXPERIMENT 3: RQ3 -- WEIGHTED-SUM vs EPSILON-CONSTRAINT
+====================================================================================================
+  EC solutions from front_ind: 3
+  WS point 1/10 (w=0.10)...
+    mu=201.32, CVaR=17.545
+  WS point 2/10 (w=0.19)...
+    mu=201.32, CVaR=17.545
+  WS point 3/10 (w=0.28)...
+    mu=201.32, CVaR=17.545
+  WS point 4/10 (w=0.37)...
+    mu=201.32, CVaR=17.545
+  WS point 5/10 (w=0.46)...
+    mu=201.32, CVaR=17.545
+  WS point 6/10 (w=0.54)...
+    mu=201.32, CVaR=17.545
+  WS point 7/10 (w=0.63)...
+    mu=202.62, CVaR=19.639
+  WS point 8/10 (w=0.72)...
+    mu=202.62, CVaR=19.639
+  WS point 9/10 (w=0.81)...
+    mu=202.62, CVaR=19.639
+  WS point 10/10 (w=0.90)...
+    mu=202.62, CVaR=19.639
+
+  WS produced 2 unique squads from 10 solves
+  EC-only solutions missed by WS: 1
+
+  Final: EC has 3 unique, WS has 2 unique, EC-only missed = 1
+
+====================================================================================================
+EXPERIMENT 4: RQ4 -- FINAL INTEGRATED SQUAD (correlated scenarios)
+====================================================================================================
+  Initial CVaR bound (mid-front correlated) = 32.533
+  Status: Optimal
+
+====================================================================================================
+FULL PLAYER TABLE  Exp4: Final Integrated (Correlated CVaR)
+====================================================================================================
+   # Name                          Pos  Sub  Rank      mu   Wage   Sig   Bet  Status
+----------------------------------------------------------------------------------------------------
+   1 Mohamed Salah                  FW    -     1   27.68    350k   2.5  0.20  SELECTED <<<
+   4 Bryan Mbeumo                   FW    -     4   16.81     45k   3.8  0.30  ---
+   5 Erling Haaland                 FW    -     5   26.05    375k   4.0  0.40  ---
+   6 Matheus Cunha                  FW    -     6   18.30     60k   3.5  0.20  ---
+   7 Bukayo Saka                    FW    -     7   27.32    195k   3.8  0.30  SELECTED <<<
+  11 Alexander Isak                 FW    -    11   25.78    120k   5.0  0.20  SELECTED <<<
+  17 Luis Diaz                      FW    -    17   23.39     55k   5.3  0.40  ---
+  19 Savinho                        FW    -    19   21.47     40k   3.4  0.40  ---
+  23 Jeremy Doku                    FW    -    23   11.57     50k   4.6  0.30  ---
+  28 Yoane Wissa                    FW    -    28   23.86     25k   1.8  0.50  SELECTED <<<
+  29 Antoine Semenyo                FW    -    29   15.27     50k   2.2  0.50  ---
+  43 Heung-Min Son                  FW    -    43   17.63    190k   3.3  0.30  ---
+  50 Jarrod Bowen                   FW    -    50   16.44    150k   1.8  0.30  ---
+  51 Callum Hudson-Odoi             FW    -    51    7.89     80k   2.8  0.50  ---
+  53 Noni Madueke                   FW    -    53   21.38     50k   2.3  0.30  ---
+  56 Joao Pedro                     FW    -    56   14.10     50k   4.6  0.40  ---
+  62 Justin Kluivert                FW    -    62   13.22     80k   2.6  0.50  ---
+  67 Iliman Ndiaye                  FW    -    67    8.44     45k   3.0  0.30  ---
+  68 Kaoru Mitoma                   FW    -    68   17.31     80k   3.2  0.30  ---
+  69 Dango Ouattara                 FW    -    69   19.86     35k   2.0  0.60  ---
+  72 Cody Gakpo                     FW    -    72   19.15    120k   3.2  0.40  ---
+  80 Kai Havertz                    FW    -    80   20.49    280k   1.5  0.70  ---
+  83 Ismaila Sarr                   FW    -    83   22.00     70k   2.4  0.60  ---
+  85 Anthony Gordon                 FW    -    85   16.18    150k   2.9  0.40  ---
+  87 Chris Wood                     FW    -    87   14.38     80k   7.2  0.50  ---
+  89 Nicolas Jackson                FW    -    89   21.79    100k   4.9  0.50  ---
+  99 Leandro Trossard               FW    -    99   15.18     90k   3.8  0.50  ---
+   2 Cole Palmer                    MF    -     2   24.05    130k   5.7  0.20  SELECTED <<<
+   3 Bruno Fernandes                MF    -     3   17.61    300k   1.0  0.30  ---
+   8 Amad Diallo                    MF    -     8   15.94     29k   2.4  0.60  ---
+   9 Moises Caicedo                 MF    -     9    3.71    150k   1.4  0.30  ---
+  10 Eberechi Eze                   MF    -    10   17.89    100k   6.3  0.20  ---
+  12 Youri Tielemans                MF    -    12    9.23    150k   1.0  0.50  ---
+  14 Alexis Mac Allister            MF    -    14   11.11    150k   1.5  0.50  ---
+  16 Thomas Partey                  MF    -    16    6.00    200k   1.3  0.60  ---
+  21 Declan Rice                    MF    -    21   11.03    240k   2.3  0.40  ---
+  24 Mateo Kovacic                  MF    -    24    7.94    150k   1.3  0.50  ---
+  25 Enzo Fernandez                 MF    -    25   14.34    180k   2.4  0.60  ---
+  26 Ryan Gravenberch               MF    -    26    5.02    150k   2.0  0.70  ---
+  27 James Maddison                 MF    -    27   24.48    170k   2.0  0.60  SELECTED <<<
+  30 Bernardo Silva                 MF    -    30   10.82    300k   2.5  0.60  ---
+  31 Alex Iwobi                     MF    -    31   12.87     80k   3.0  0.60  ---
+  33 Bruno Guimaraes                MF    -    33   10.11    160k   2.5  0.30  ---
+  34 Ryan Christie                  MF    -    34    8.20     70k   1.0  0.80  ---
+  35 Morgan Gibbs-White             MF    -    35   13.37     80k   1.1  0.40  ---
+  36 Ilkay Gundogan                 MF    -    36   11.52    230k   4.9  0.70  ---
+  37 Christian Norgaard             MF    -    37    6.93     35k   1.0  0.40  ---
+  38 Mikkel Damsgaard               MF    -    38   11.48     30k   3.3  0.60  ---
+  39 Kevin De Bruyne                MF    -    39   23.70    400k   5.3  0.40  ---
+  41 Jacob Murphy                   MF    -    41   17.06     35k   3.3  0.60  ---
+  42 Martin Odegaard                MF    -    42   15.69    240k   2.8  0.40  ---
+  52 Dominik Szoboszlai             MF    -    52   18.11    120k   2.7  0.50  SELECTED <<<
+  54 Elliot Anderson                MF    -    54    7.16     40k   2.2  0.60  ---
+  55 Dwight McNeil                  MF    -    55   13.50     25k   2.1  0.30  ---
+  57 Sandro Tonali                  MF    -    57    9.31    120k   2.2  0.30  ---
+  64 Carlos Baleba                  MF    -    64    5.50     13k   1.0  0.50  ---
+  74 Casemiro                       MF    -    74    8.75    350k   2.4  0.80  ---
+  75 Lewis Cook                     MF    -    75    5.39     60k   1.0  0.50  ---
+  91 Marcus Tavernier               MF    -    91   16.11     35k   2.8  0.60  ---
+  93 Joelinton                      MF    -    93    8.93    150k   2.8  0.50  ---
+  96 Idrissa Gana Gueye             MF    -    96    3.38    120k   1.0  0.30  ---
+  98 Morgan Rogers                  MF    -    98   12.92     75k   1.8  0.40  ---
+  13 Trent Alexander-Arnold         DF   FB    13   14.07    180k   2.4  0.60  SELECTED <<<
+  15 Daniel Munoz                   DF   FB    15   10.24     45k   1.5  0.60  ---
+  18 Josko Gvardiol                 DF   FB    18    7.82    200k   2.1  0.50  ---
+  20 Virgil van Dijk                DF   CB    20    3.31    220k   0.5  0.20  ---
+  22 Antonee Robinson               DF   FB    22    5.22     50k   1.1  0.50  ---
+  32 Aaron Wan-Bissaka              DF   FB    32    4.30     90k   1.1  0.40  ---
+  44 Dean Huijsen                   DF   CB    44    4.86     30k   1.3  0.40  SELECTED <<<
+  46 Gabriel Magalhaes              DF   CB    46    5.51    100k   0.6  0.40  ---
+  47 William Saliba                 DF   CB    47    4.01    190k   0.5  0.20  ---
+  48 Matheus Nunes                  DF   FB    48    9.28    130k   2.5  0.80  ---
+  49 Pedro Porro                    DF   FB    49    8.18     85k   2.0  0.70  ---
+  59 Murillo                        DF   CB    59    2.74     30k   0.8  0.40  ---
+  61 Rayan Ait-Nouri                DF   FB    61    7.32     30k   1.5  0.50  ---
+  65 Diogo Dalot                    DF   FB    65    5.48     85k   1.1  0.70  ---
+  66 Jurrien Timber                 DF   FB    66    3.53     90k   3.3  0.70  ---
+  70 Ibrahima Konate                DF   CB    70    3.60     70k   1.2  0.30  ---
+  73 Neco Williams                  DF   FB    73    5.06     50k   0.7  0.60  ---
+  76 James Tarkowski                DF   CB    76    4.28    100k   0.7  0.30  ---
+  78 Milos Kerkez                   DF   FB    78    3.24     30k   1.2  0.40  ---
+  79 Lisandro Martinez              DF   CB    79    5.03    120k   1.0  0.50  ---
+  81 Illia Zabarnyi                 DF   CB    81    2.23     50k   0.5  0.30  ---
+  82 Ruben Dias                     DF   CB    82    4.05    180k   1.4  0.30  ---
+  84 Ola Aina                       DF   FB    84    3.26     40k   0.7  0.60  ---
+  86 Lewis Hall                     DF   FB    86    6.44      7k   3.3  0.40  ---
+  88 Tyrick Mitchell                DF   FB    88    5.53     40k   0.9  0.70  ---
+  90 Kenny Tete                     DF   FB    90    3.90     50k   1.0  0.60  ---
+  92 Pervis Estupinan               DF   FB    92    5.21     50k   1.5  0.60  ---
+  95 Trevoh Chalobah                DF   CB    95    4.59     50k   1.0  0.40  SELECTED <<<
+  97 Mats Wieffer                   DF   FB    97    5.97     60k   1.2  0.60  ---
+ 100 Nikola Milenkovic              DF   CB   100    4.68    105k   1.1  0.50  ---
+  40 Jordan Pickford                GK    -    40    6.15    125k   3.6  0.20  ---
+  45 David Raya                     GK    -    45    1.99    100k   2.6  0.30  ---
+  58 Nick Pope                      GK    -    58    0.07     60k   2.4  0.30  ---
+  60 Alisson Becker                 GK    -    60    2.90    150k   4.5  0.20  ---
+  63 Robert Sanchez                 GK    -    63    2.48     60k   3.7  0.40  ---
+  71 Ederson                        GK    -    71    6.52    100k   3.1  0.40  SELECTED <<<
+  77 Matz Sels                      GK    -    77    4.55     35k   4.0  0.50  ---
+  94 Mark Flekken                   GK    -    94   -1.63     30k   3.0  0.30  ---
+
+--- BEST XI: Final Integrated (Correlated CVaR) (4-3-3) ---
+  Name                          Pos  Sub       mu    Wage    Sig    Bet
+  ----------------------------------------------------------------------
+  Ederson                        GK    -     6.52     100k    3.1   0.40
+  Dean Huijsen                   DF   CB     4.86      30k    1.3   0.40
+  Trevoh Chalobah                DF   CB     4.59      50k    1.0   0.40
+  Trent Alexander-Arnold         DF   FB    14.07     180k    2.4   0.60
+  Cole Palmer                    MF    -    24.05     130k    5.7   0.20
+  Dominik Szoboszlai             MF    -    18.11     120k    2.7   0.50
+  James Maddison                 MF    -    24.48     170k    2.0   0.60
+  Yoane Wissa                    FW    -    23.86      25k    1.8   0.50
+  Mohamed Salah                  FW    -    27.68     350k    2.5   0.20
+  Bukayo Saka                    FW    -    27.32     195k    3.8   0.30
+  Alexander Isak                 FW    -    25.78     120k    5.0   0.20
+  ----------------------------------------------------------------------
+  TOTAL                                      201.32    1470k
+
+  Comparison: Deterministic -> Final Integrated
+  Same (9): Ederson, Bukayo Saka, Alexander Isak, Dean Huijsen, James Maddison, Yoane Wissa, Trevoh Chalobah, Cole Palmer, Trent Alexander-Arnold
+  OUT  (2): Kevin De Bruyne, Luis Diaz
+  IN   (2): Mohamed Salah, Dominik Szoboszlai
+
+====================================================================================================
+GRAND SUMMARY TABLE
+====================================================================================================
+Model                           E[Perf]     Wage  Form   Avg_sig  Avg_bet   CVaR_ind   CVaR_cor      MAD
+--------------------------------------------------------------------------------------------------------------
+Deterministic                    202.62    1455k  4-3-3    3.336    0.400     19.639     33.032    9.919
+Mean-MAD                         163.54    1430k  4-3-3    1.691    0.409     49.177     65.152    4.950
+Mean-CVaR (ind)                  201.32    1470k  4-3-3    2.845    0.391     17.545     32.533    8.687
+Pareto-mid (ind)                 202.02    1500k  4-3-3    3.136    0.364     19.389     32.603    9.734
+Pareto-mid (cor)                 201.32    1470k  4-3-3    2.845    0.391     17.545     32.533    8.687
+Final Integrated (cor)           201.32    1470k  4-3-3    2.845    0.391     17.545     32.533    8.687
+
+Generating figures...
+  Saved fig_rq1_comparison.pdf
+  Saved fig_rq2_pareto.pdf
+  Saved fig_rq3_scalarisation.pdf
+
+====================================================================================================
+ALL EXPERIMENTS COMPLETE
+====================================================================================================
